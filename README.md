@@ -1,6 +1,6 @@
 NOTE:
 
-  evrything is present in zip file.
+  evrything is present in zip file including dataset and code
   
 Description
 
